@@ -1,4 +1,4 @@
-hutch: las
+hutch: ip1_mods 
 
 ## Locate happi database
 db: /reg/g/pcds/pyps/apps/hutch-python/device_config/db.json
