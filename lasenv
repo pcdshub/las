@@ -2,8 +2,8 @@
 # Source this to load the full environment that hutch python uses
 
 # edit this line only
-export CONDA_ENVNAME="pcds-2.0.1"
-export CONDA_BASE="/reg/g/pcds/pyps/conda/py36"
+export CONDA_ENVNAME="pcds-5.3.1"
+export CONDA_BASE="/reg/g/pcds/pyps/conda/py39"
 export HUTCH="las"
 
 unset PYTHONPATH

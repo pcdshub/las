@@ -1,4 +1,4 @@
-hutch: las
+hutch: crix_mods 
 
 ## Locate happi database
 db: /reg/g/pcds/pyps/apps/hutch-python/device_config/db.json
